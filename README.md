@@ -13,8 +13,7 @@ Implementation of Deep Q-Network (DQN) agent for Atari Boxing using Stable-Basel
 
 Watch the trained agent in action:
 
-<video src="https://github.com/tanv99/LLM-Agents-Deep-Q-Learning-with-Atari-Game/assets/47503747/boxing_agent.mp4" controls="controls" style="max-width: 640px;">
-</video>
+[![Watch Boxing Agent Gameplay](https://img.shields.io/badge/▶️_Watch_Video-Boxing_Agent-red?style=for-the-badge)](https://github.com/tanv99/LLM-Agents-Deep-Q-Learning-with-Atari-Game/blob/main/boxing_agent.mp4)
 
 ## Requirements
 ```
