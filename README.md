@@ -13,7 +13,7 @@ Implementation of Deep Q-Network (DQN) agent for Atari Boxing using Stable-Basel
 
 Watch the trained agent in action:
 
-[![Boxing Agent Gameplay](https://img.shields.io/badge/Watch-Video-red)](./boxing_agent.mp4)
+
 
 The video showcases the best-performing agent (Experiment 4: Moderate Epsilon Decay) demonstrating learned boxing strategies including defensive positioning, counter-punching, and ring control.
 
